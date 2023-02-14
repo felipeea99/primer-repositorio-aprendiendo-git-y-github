@@ -1,2 +1,2 @@
-# primer-repositorio-aprendiendo-git-y-github
+# mi primer README
 Primer repositorio de Github
